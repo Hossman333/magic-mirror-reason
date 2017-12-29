@@ -1,7 +1,10 @@
 ## Magic Mirror Dashboard
 Made with [ReasonReact](https://reasonml.github.io/reason-react/)
-This is a much better version[MagicMirror](https://github.com/MichMich/MagicMirror#modules)
+
+Inspired by [MagicMirror](https://github.com/MichMich/MagicMirror#modules)
+
 I just made this to learn reason and to make a personalized dashboard for my smart mirror (:
+
 I will be making it more generic though and adding features.
 ## Roadmap
 - 1 quote per day(possibly refresh the page once a day.....since it already selects a random quote)
