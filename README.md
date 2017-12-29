@@ -7,9 +7,9 @@ I just made this to learn reason and to make a personalized dashboard for my sma
 
 I will be making it more generic though and adding features.
 
-![Mirror on display](https://github.com/Hossman333/magic-mirror-reason/tree/master/public/demo_mirror.JPG)
+![Mirror on display](https://raw.githubusercontent.com/Hossman333/magic-mirror-reason/master/public/demo_mirror.JPG)
 
-![Dashboard](https://github.com/Hossman333/magic-mirror-reason/tree/master/public/mirror.png)
+![Dashboard](https://raw.githubusercontent.com/Hossman333/magic-mirror-reason/master/public/mirror.png)
 ## Roadmap
 - 1 quote per day(possibly refresh the page once a day.....since it already selects a random quote)
 - Add weather support
