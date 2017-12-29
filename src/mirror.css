@@ -1,0 +1,21 @@
+.Mirror {
+  height: 100vh;
+  background-color: #000;
+  padding: 40px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.Mirror_Top {
+  display: flex;
+  justify-content: space-between;
+  flex: 100%;
+}
+
+.Mirror_Bottom {
+  display: flex;
+  flex: 100%;
+  align-self: flex-end;
+  justify-content: center;
+  text-align: center;
+}
